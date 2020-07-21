@@ -1,0 +1,14 @@
+<html>
+<head>
+<script>
+	#grad1
+		{
+			height:592px;
+			background:linear-gradient(to bottom,white,yellowgreen)
+		}
+</script>
+</head>
+<body id="grad1">
+<center><h2 style=color:teal>About Us</h2></center>
+</body>
+</html>

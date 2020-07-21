@@ -1,0 +1,27 @@
+		table
+		{
+            margin-top:110px;
+            padding: 20px;
+        }    
+        
+        p
+		{
+            text-align: center;
+            text-decoration: underline;
+            color:teal;
+            font-size:72px;
+            font-weight: bold;
+        }
+        
+        td
+		{
+            font-size: 19px;
+            font-weight: bold;
+            color:teal;
+            
+        }
+        
+        input
+		{
+            font-size: 18px;
+        }
